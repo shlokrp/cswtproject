@@ -1,4 +1,4 @@
 # cswtproject
 This is my CSWT project.
 
-My topic is: Assembly and Disassembly of CPU.
+Topic: Assembling and disassembling the PC back to working condition.
